@@ -1,21 +1,27 @@
-# mock
+# mock_play
 
-> A Vue.js project
+基本仿造easy-mock实现，采用技术栈 KOA2 + MongoDb
 
-## Build Setup
+用户鉴权方面使用了JWT
 
-``` bash
-# install dependencies
-npm install
+前端使用Vue全家桶和layui进行简单布局
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
+使用方式：
+
+进主目录
+
+```
+yarn start
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+ 或者
+
+```
+npm install
+```
+
+进server目录yarn start 或者npm install 一下
+
+本地运行的话，前端服务(npm run dev)和server(supervisor ./index.js)，需要分别启动这里我用的supervisor启动后端调试
