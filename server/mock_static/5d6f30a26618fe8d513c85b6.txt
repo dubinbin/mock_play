@@ -1,8 +1,0 @@
-{
-    "msg":"ok",
-    "code":0,
-    "data":{
-        "number": 123,
-        "has_active_coupons":false
-    }
-}
