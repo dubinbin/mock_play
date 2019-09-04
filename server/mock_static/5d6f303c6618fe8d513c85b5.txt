@@ -1,0 +1,7 @@
+{
+    "msg":"ok",
+    "code":0,
+    "data":{
+        "subscribed_retain":false
+    }
+}

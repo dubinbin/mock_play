@@ -1,0 +1,9 @@
+{
+    "msg":"ok",
+    "code":0,
+    "data":{
+        "timestamp":"1567439999",
+        "nonceStr":"C3Fw70SoFUEKgZH9",
+        "signature":"e0d85eab9e4eaa13d44214c1c97d97ce59a47371"
+    }
+}

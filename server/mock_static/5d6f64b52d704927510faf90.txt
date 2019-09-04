@@ -1,0 +1,8 @@
+{
+    "msg":"ok",
+    "code":0,
+    "data":{
+        "lectures":[
+        ]
+    }
+}
